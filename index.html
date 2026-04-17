@@ -267,6 +267,7 @@ const BRAND_COLORS = {
   '한국타이어':'#003087','금호':'#00843D','굿이어':'#0057A0','라우펜':'#E5004B','제너럴':'#D4451A'
 };
 
+const DATA_VERSION = 'v2026-04-17b';
 let data = [...DEFAULT_DATA];
 let activeBrand = '전체';
 let activeSort = 'size';
@@ -274,6 +275,11 @@ let editIdx = -1;
 let isAdmin = false;
 
 function loadData() {
+  const savedVer = localStorage.getItem('tireDataVersion');
+  if (savedVer !== DATA_VERSION) {
+    localStorage.removeItem('tireData');
+    localStorage.setItem('tireDataVersion', DATA_VERSION);
+  }
   const saved = localStorage.getItem('tireData');
   data = saved ? JSON.parse(saved) : [...DEFAULT_DATA];
 }
