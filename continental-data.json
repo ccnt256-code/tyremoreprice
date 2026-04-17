@@ -2516,30 +2516,6 @@
   },
   {
     "brand": "콘티넨탈",
-    "pattern": "VanC 100",
-    "size": "205/75R16",
-    "price": 313500
-  },
-  {
-    "brand": "콘티넨탈",
-    "pattern": "VanC A/S Ultra",
-    "size": "205/75R16",
-    "price": 273900
-  },
-  {
-    "brand": "콘티넨탈",
-    "pattern": "VanC A/S Ultra",
-    "size": "215/65R17",
-    "price": 270600
-  },
-  {
-    "brand": "콘티넨탈",
-    "pattern": "VanContact Ultra 6PR",
-    "size": "215/70R16",
-    "price": 229900
-  },
-  {
-    "brand": "콘티넨탈",
     "pattern": "ContiProContact",
     "size": "215/55R18",
     "price": 291500
@@ -2561,5 +2537,101 @@
     "pattern": "CrossContact RX",
     "size": "235/55R19",
     "price": 313500
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "195/70R15",
+    "price": 191400
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "205/70R15",
+    "price": 204600
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "195/80R15",
+    "price": 168300
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "145/80R13",
+    "price": 106700
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "195/80R15",
+    "price": 198000
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "215/70R15",
+    "price": 221100
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "185/80R14",
+    "price": 174900
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "205/70R15",
+    "price": 170500
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "155/80R12",
+    "price": 82500
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AP",
+    "size": "145/80R12",
+    "price": 106700
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "215/65R17",
+    "price": 270600
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "205/75R16",
+    "price": 273900
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "235/65R16",
+    "price": 342100
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "195/70R15",
+    "price": 178200
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "195/75R16",
+    "price": 218900
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiVanContact AS Ultra",
+    "size": "215/70R15",
+    "price": 204600
   }
 ]

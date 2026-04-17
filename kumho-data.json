@@ -1,1 +1,3368 @@
-[{"pattern": "ECSTA PS71", "size": "215/45R17", "price": 195580, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/50R17", "price": 200750, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/45R17", "price": 214610, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "235/45R17", "price": 220330, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/45R17", "price": 231330, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/40R17", "price": 244200, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/40R17", "price": 255640, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/45R18", "price": 241780, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/40R18", "price": 242660, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "235/45R18", "price": 243430, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "235/40R18", "price": 253110, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/50R18", "price": 254100, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/45R18", "price": 250910, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/40R18", "price": 269390, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/35R18", "price": 275000, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/45R18", "price": 262460, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/40R18", "price": 278080, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/35R18", "price": 288090, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "265/40R18", "price": 285340, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "265/35R18", "price": 305470, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/45R18", "price": 288640, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "285/35R18", "price": 317020, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/45R19", "price": 265980, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "225/40R19", "price": 269390, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "235/35R19", "price": 298100, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/45R19", "price": 283580, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/40R19", "price": 285450, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/35R19", "price": 305800, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/40R19", "price": 302610, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/35R19", "price": 321860, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "265/35R19", "price": 337920, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "265/30R19", "price": 337370, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/40R19", "price": 340560, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/35R19", "price": 353980, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/30R19", "price": 354200, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "295/30R19", "price": 387860, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/40R20", "price": 305690, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "245/35R20", "price": 321200, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "255/35R20", "price": 337150, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/35R20", "price": 369160, "brand": "금호"}, {"pattern": "ECSTA PS71", "size": "275/30R20", "price": 387750, "brand": "금호"}, {"pattern": "Majesty X", "size": "225/45R18", "price": 258500, "brand": "금호"}, {"pattern": "Majesty X", "size": "235/60R18", "price": 266200, "brand": "금호"}, {"pattern": "Majesty X", "size": "235/45R18", "price": 264000, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/50R18", "price": 297000, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/45R18", "price": 298100, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/40R18", "price": 291500, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/40R18", "price": 319000, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/45R18", "price": 352000, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/40R18", "price": 341000, "brand": "금호"}, {"pattern": "Majesty X", "size": "225/40R19", "price": 290400, "brand": "금호"}, {"pattern": "Majesty X", "size": "235/55R19", "price": 261910, "brand": "금호"}, {"pattern": "Majesty X", "size": "235/45R19", "price": 325600, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/50R19", "price": 352000, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/45R19", "price": 330000, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/40R19", "price": 322300, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/40R19", "price": 352000, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/35R19", "price": 360800, "brand": "금호"}, {"pattern": "Majesty X", "size": "265/55R19", "price": 278300, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/40R19", "price": 385000, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/35R19", "price": 414700, "brand": "금호"}, {"pattern": "Majesty X", "size": "285/30R19", "price": 437800, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/45R20", "price": 393800, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/40R20", "price": 398200, "brand": "금호"}, {"pattern": "Majesty X", "size": "245/35R20", "price": 401500, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/50R20", "price": 302500, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/40R20", "price": 408100, "brand": "금호"}, {"pattern": "Majesty X", "size": "265/50R20", "price": 303600, "brand": "금호"}, {"pattern": "Majesty X", "size": "265/45R20", "price": 348700, "brand": "금호"}, {"pattern": "Majesty X", "size": "265/40R20", "price": 421300, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/45R20", "price": 334400, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/40R20", "price": 447700, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/35R20", "price": 462000, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/30R20", "price": 478500, "brand": "금호"}, {"pattern": "Majesty X", "size": "285/35R20", "price": 477400, "brand": "금호"}, {"pattern": "Majesty X", "size": "295/35R20", "price": 498300, "brand": "금호"}, {"pattern": "Majesty X", "size": "315/35R20", "price": 361900, "brand": "금호"}, {"pattern": "Majesty X", "size": "255/40R21", "price": 358600, "brand": "금호"}, {"pattern": "Majesty X", "size": "275/45R21", "price": 376200, "brand": "금호"}, {"pattern": "Majesty X", "size": "265/40R22", "price": 387200, "brand": "금호"}, {"pattern": "Majesty 9", "size": "205/55R17", "price": 198000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "205/45R17", "price": 205700, "brand": "금호"}, {"pattern": "Majesty 9", "size": "215/55R17", "price": 204600, "brand": "금호"}, {"pattern": "Majesty 9", "size": "215/50R17", "price": 193600, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/55R17", "price": 220000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/50R17", "price": 213400, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/45R17", "price": 216700, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/45R17", "price": 250800, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/55R18", "price": 237600, "brand": "금호"}, {"pattern": "Majesty 9 (흡음재)", "size": "225/55R18", "price": 259600, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/50R18", "price": 242000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/45R18", "price": 236500, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/40R18", "price": 256300, "brand": "금호"}, {"pattern": "Majesty 9", "size": "235/50R18", "price": 245300, "brand": "금호"}, {"pattern": "Majesty 9", "size": "235/45R18", "price": 242000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "235/40R18", "price": 253000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/50R18", "price": 270600, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/45R18", "price": 265100, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/40R18", "price": 273900, "brand": "금호"}, {"pattern": "Majesty 9", "size": "255/45R18", "price": 281600, "brand": "금호"}, {"pattern": "Majesty 9", "size": "255/40R18", "price": 297000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/45R18", "price": 319000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/40R18", "price": 308000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "225/40R19", "price": 269500, "brand": "금호"}, {"pattern": "Majesty 9", "size": "235/45R19", "price": 303600, "brand": "금호"}, {"pattern": "Majesty 9 (흡음재)", "size": "235/45R19", "price": 330000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/45R19", "price": 295900, "brand": "금호"}, {"pattern": "Majesty 9 (흡음재)", "size": "245/45R19", "price": 323400, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/40R19", "price": 298100, "brand": "금호"}, {"pattern": "Majesty 9 (흡음재)", "size": "245/40R19", "price": 320100, "brand": "금호"}, {"pattern": "Majesty 9", "size": "255/45R19", "price": 334400, "brand": "금호"}, {"pattern": "Majesty 9 (흡음재)", "size": "255/45R19", "price": 352000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "255/40R19", "price": 335500, "brand": "금호"}, {"pattern": "Majesty 9", "size": "255/35R19", "price": 343200, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/40R19", "price": 356400, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/35R19", "price": 379500, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/45R20", "price": 371800, "brand": "금호"}, {"pattern": "Majesty 9", "size": "245/40R20", "price": 375100, "brand": "금호"}, {"pattern": "Majesty 9", "size": "265/40R20", "price": 401500, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/35R20", "price": 418000, "brand": "금호"}, {"pattern": "Majesty 9", "size": "275/40R20", "price": 374000, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "175/60R14", "price": 119900, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "195/45R16", "price": 156200, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "205/55R16", "price": 149600, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "205/60R16", "price": 188100, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "205/65R16", "price": 182600, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/45R16", "price": 171600, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/55R16", "price": 159500, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/60R16", "price": 195800, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/55R16", "price": 168300, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/60R16", "price": 210100, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/55R16", "price": 183700, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "205/50R17", "price": 167200, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "205/55R17", "price": 163900, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/45R17", "price": 177100, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/50R17", "price": 171600, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/55R17", "price": 170500, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/60R17", "price": 198000, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/45R17", "price": 189200, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/50R17", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/55R17", "price": 188100, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/55R17", "price": 194700, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/45R17", "price": 202400, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/40R18", "price": 206800, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "215/45R18", "price": 190300, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/40R18", "price": 207900, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "225/45R18", "price": 217800, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/40R18", "price": 235400, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/45R18", "price": 229900, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/50R18", "price": 223300, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/40R18", "price": 229900, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/45R18", "price": 228800, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/50R18", "price": 244200, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "235/35R19", "price": 254100, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/40R19", "price": 264000, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "245/45R19", "price": 250800, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "275/35R19", "price": 325600, "brand": "금호"}, {"pattern": "SOLUS TA51", "size": "275/40R19", "price": 310200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "155/65R13", "price": 70400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "155/70R13", "price": 71500, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "155/80R13", "price": 62700, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "165/65R13", "price": 68200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "175/60R13", "price": 79200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "175/70R13", "price": 70400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "155/70R14", "price": 72600, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "165/60R14", "price": 92400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "165/65R14", "price": 79200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "175/65R14", "price": 92400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "185/60R14", "price": 96800, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "185/65R14", "price": 92400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/60R14", "price": 99000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/70R14", "price": 78100, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "165/60R15", "price": 88000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "175/50R15", "price": 103400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "185/60R15", "price": 129800, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "185/65R15", "price": 127600, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/55R15", "price": 130900, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/60R15", "price": 123200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/65R15", "price": 132000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/60R15", "price": 128700, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/65R15", "price": 138600, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "215/65R15", "price": 134200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "195/45R16", "price": 132000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/55R16", "price": 124300, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/60R16", "price": 166100, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/65R16", "price": 155100, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "215/60R16", "price": 171600, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/60R16", "price": 187000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/45R17", "price": 150700, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "205/55R17", "price": 155100, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "215/45R17", "price": 155100, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "215/50R17", "price": 151800, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "215/55R17", "price": 150700, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/45R17", "price": 169400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/50R17", "price": 158400, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/55R17", "price": 167200, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/40R18", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "225/45R18", "price": 181500, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "235/45R18", "price": 184800, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "235/50R18", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "245/45R18", "price": 198000, "brand": "금호"}, {"pattern": "SOLUS TA21", "size": "245/50R18", "price": 204600, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "185/55R15", "price": 151800, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "185/65R15", "price": 146300, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "195/50R16", "price": 146300, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "205/55R16", "price": 147400, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "205/60R16", "price": 184800, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "205/65R16", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "215/65R16", "price": 182600, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "215/50R17", "price": 178200, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "215/55R17", "price": 167200, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "225/55R17", "price": 184800, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "215/50R18", "price": 214500, "brand": "금호"}, {"pattern": "SOLUS TA31", "size": "215/55R18", "price": 184800, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "205/55R16", "price": 136400, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "205/45R17", "price": 151800, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "215/45R17", "price": 160600, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "215/50R17", "price": 156200, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "215/55R17", "price": 158400, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "225/45R17", "price": 170500, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "225/50R17", "price": 172700, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "225/55R17", "price": 173800, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "225/45R18", "price": 196900, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "225/55R18", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "235/45R18", "price": 204600, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "245/45R18", "price": 214500, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "245/40R19", "price": 246400, "brand": "금호"}, {"pattern": "SOLUS 4S HA32", "size": "245/45R19", "price": 239800, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "205/70R15", "price": 96800, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "205/60R16", "price": 132000, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "205/65R16", "price": 115500, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "215/60R16", "price": 138600, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "215/55R17", "price": 127600, "brand": "금호"}, {"pattern": "SuperMile TX31", "size": "225/55R17", "price": 137500, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/65R17", "price": 220000, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "215/50R18", "price": 243760, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/50R18", "price": 235950, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/55R18", "price": 221100, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/60R18", "price": 279180, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/55R18", "price": 259600, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/50R19", "price": 276100, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/55R19", "price": 268400, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "245/45R19", "price": 283580, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/50R19", "price": 286000, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/55R19", "price": 256300, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/40R19", "price": 340560, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "235/45R20", "price": 351010, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "245/45R20", "price": 353320, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/45R20", "price": 294800, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/50R20", "price": 341000, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/55R20", "price": 339900, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "265/45R20", "price": 336600, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/40R20", "price": 353100, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/45R20", "price": 350900, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/50R20", "price": 349800, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "285/40R20", "price": 376200, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "285/45R20", "price": 395560, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "295/40R20", "price": 374550, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "315/35R20", "price": 384230, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "255/40R21", "price": 372460, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "265/40R21", "price": 437470, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/40R21", "price": 440000, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "285/40R21", "price": 433620, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "285/45R21", "price": 482900, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "295/35R21", "price": 363440, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "315/35R21", "price": 487300, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "265/35R22", "price": 441100, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/35R22", "price": 489830, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "275/40R22", "price": 445500, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "285/35R22", "price": 610390, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "315/30R22", "price": 631180, "brand": "금호"}, {"pattern": "ECSTA PS71 SUV", "size": "315/35R22", "price": 620070, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/60R16", "price": 222200, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "225/60R17", "price": 229900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "225/65R17", "price": 211200, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/55R17", "price": 207900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/60R17", "price": 239800, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/65R17", "price": 222200, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/55R17", "price": 220000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "215/55R18", "price": 187000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "225/55R18", "price": 198000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "225/60R18", "price": 245300, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/50R18", "price": 216700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/55R18", "price": 209000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/60R18", "price": 255200, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/55R18", "price": 216700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/60R18", "price": 270600, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/55R18", "price": 226600, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/60R18", "price": 282700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "265/60R18", "price": 297000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/50R19", "price": 245300, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/55R19", "price": 242000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/45R19", "price": 247500, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/50R19", "price": 257400, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/50R19", "price": 251900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/60R19", "price": 284900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "265/50R19", "price": 253000, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "265/55R19", "price": 270600, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "235/55R20", "price": 267300, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/45R20", "price": 314600, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "245/50R20", "price": 290400, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/45R20", "price": 315700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/50R20", "price": 277200, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "255/55R20", "price": 295900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "265/50R20", "price": 284900, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "275/40R20", "price": 304700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "275/45R20", "price": 320100, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "275/50R20", "price": 335500, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "275/60R20", "price": 348700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "295/40R21", "price": 391600, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "265/40R22", "price": 370700, "brand": "금호"}, {"pattern": "CRUGEN HP71", "size": "285/45R22", "price": 379500, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "215/65R16", "price": 159500, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/65R16", "price": 169400, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/70R16", "price": 151800, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/60R16", "price": 210100, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "245/70R16", "price": 172700, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/65R16", "price": 211200, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/60R17", "price": 216700, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/55R17", "price": 202400, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/60R17", "price": 226600, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/65R17", "price": 215600, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "215/55R18", "price": 178200, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/55R18", "price": 191400, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/60R18", "price": 232100, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/55R18", "price": 196900, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/60R18", "price": 234300, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "245/60R18", "price": 253000, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/55R18", "price": 215600, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/60R18", "price": 269500, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "265/60R18", "price": 280500, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "225/55R19", "price": 209000, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/50R19", "price": 232100, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "235/55R19", "price": 224400, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "245/45R19", "price": 233200, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/50R19", "price": 237600, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/55R19", "price": 225500, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "255/50R20", "price": 260700, "brand": "금호"}, {"pattern": "CRUGEN HP51", "size": "265/50R20", "price": 275000, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/60R16", "price": 206800, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "215/60R17", "price": 191400, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "225/60R17", "price": 209000, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/60R17", "price": 216700, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/65R17", "price": 210100, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/70R17", "price": 195800, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "225/55R18", "price": 184800, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "225/60R18", "price": 227700, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/55R18", "price": 189200, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/60R18", "price": 226600, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "255/55R18", "price": 211200, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "255/60R18", "price": 260700, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "265/60R18", "price": 270600, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "225/55R19", "price": 207900, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/50R19", "price": 227700, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "235/55R19", "price": 216700, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "245/45R19", "price": 226600, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "255/50R20", "price": 255200, "brand": "금호"}, {"pattern": "CRUGEN Premium", "size": "265/50R20", "price": 271700, "brand": "금호"}, {"pattern": "HP72", "size": "215/55R18", "price": 192500, "brand": "금호"}, {"pattern": "HP72", "size": "225/55R18", "price": 200200, "brand": "금호"}, {"pattern": "HP72", "size": "225/60R18", "price": 253000, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "215/75R15", "price": 159500, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "245/75R16", "price": 236500, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "245/70R17", "price": 259600, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "235/65R17", "price": 259600, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "245/65R17", "price": 267300, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "265/70R17", "price": 271700, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "265/65R17", "price": 305800, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "255/60R18", "price": 305800, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "265/70R18", "price": 297000, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "265/65R18", "price": 300300, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "265/60R18", "price": 322300, "brand": "금호"}, {"pattern": "ROAD VENTURE AT52", "size": "275/55R20", "price": 303600, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "28X8.50R15", "price": 165000, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "35X12.5R15", "price": 341000, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "255/75R17", "price": 269500, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "265/70R17", "price": 288200, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "285/70R17", "price": 337590, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "315/70R17", "price": 364760, "brand": "금호"}, {"pattern": "ROAD VENTURE MT71", "size": "35X12.5R17", "price": 374000, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "205/70R15", "price": 115500, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "215/70R15", "price": 121000, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "255/70R15", "price": 157300, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "215/65R16", "price": 146300, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "225/70R16", "price": 137500, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "235/60R16", "price": 179300, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "235/70R16", "price": 150700, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "245/70R16", "price": 192500, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "255/65R16", "price": 190300, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "225/60R17", "price": 202400, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "235/55R17", "price": 182600, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "235/60R17", "price": 209000, "brand": "금호"}, {"pattern": "SOLUS TA21 SUV", "size": "235/65R17", "price": 200200, "brand": "금호"}, {"pattern": "SOLUS 4S HA32 SUV", "size": "225/60R17", "price": 196900, "brand": "금호"}, {"pattern": "SOLUS 4S HA32 SUV", "size": "235/55R18", "price": 189200, "brand": "금호"}, {"pattern": "SOLUS 4S HA32 SUV", "size": "235/60R18", "price": 229900, "brand": "금호"}, {"pattern": "SOLUS 4S HA32 SUV", "size": "235/55R19", "price": 215600, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "225/55R18", "price": 287100, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "225/60R18", "price": 272800, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "235/45R18", "price": 317900, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "215/50R19", "price": 257400, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "235/40R19", "price": 364100, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "235/55R19", "price": 271700, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "245/45R19", "price": 310200, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/45R19", "price": 356400, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/50R19", "price": 309100, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/60R19", "price": 314600, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "275/40R19", "price": 356400, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "285/40R19", "price": 391600, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "235/35R20", "price": 561000, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "245/40R20", "price": 418000, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "245/45R20", "price": 451000, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/40R20", "price": 438900, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/45R20", "price": 347600, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/50R20", "price": 438900, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "265/45R20", "price": 399300, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "275/50R20", "price": 451000, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "285/40R20", "price": 511500, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "245/35R21", "price": 547800, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "265/35R21", "price": 596200, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/40R21", "price": 360800, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "255/35R21", "price": 543400, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "275/35R21", "price": 566500, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "285/45R21", "price": 493900, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "265/35R22", "price": 554400, "brand": "금호"}, {"pattern": "EnnoV PREMIUM VA91", "size": "285/35R22", "price": 610500, "brand": "금호"}, {"pattern": "HP72", "size": "165/65R14", "price": 97680, "brand": "금호"}, {"pattern": "HP72", "size": "175/65R14", "price": 100650, "brand": "금호"}, {"pattern": "HP72", "size": "185/60R15", "price": 152020, "brand": "금호"}, {"pattern": "HP72", "size": "195/45R16", "price": 163020, "brand": "금호"}, {"pattern": "HP72", "size": "205/65R16", "price": 177650, "brand": "금호"}, {"pattern": "HP72", "size": "205/60R16", "price": 185900, "brand": "금호"}, {"pattern": "HP72", "size": "205/55R16", "price": 148500, "brand": "금호"}, {"pattern": "HP72", "size": "215/60R16", "price": 196570, "brand": "금호"}, {"pattern": "HP72", "size": "225/60R16", "price": 204820, "brand": "금호"}, {"pattern": "HP72", "size": "205/55R17", "price": 193380, "brand": "금호"}, {"pattern": "HP72", "size": "205/50R17", "price": 196900, "brand": "금호"}, {"pattern": "HP72", "size": "205/45R17", "price": 196900, "brand": "금호"}, {"pattern": "HP72", "size": "215/55R17", "price": 206800, "brand": "금호"}, {"pattern": "HP72", "size": "215/50R17", "price": 202840, "brand": "금호"}, {"pattern": "HP72", "size": "215/45R17", "price": 204050, "brand": "금호"}, {"pattern": "HP72", "size": "225/55R17", "price": 213400, "brand": "금호"}, {"pattern": "HP72", "size": "225/50R17", "price": 214610, "brand": "금호"}, {"pattern": "HP72", "size": "225/45R17", "price": 212300, "brand": "금호"}, {"pattern": "HP72", "size": "235/55R17", "price": 221100, "brand": "금호"}, {"pattern": "HP72", "size": "245/45R17", "price": 231000, "brand": "금호"}, {"pattern": "HP72", "size": "215/45R18", "price": 213730, "brand": "금호"}, {"pattern": "HP72", "size": "225/45R18", "price": 224400, "brand": "금호"}, {"pattern": "HP72", "size": "225/40R18", "price": 227700, "brand": "금호"}, {"pattern": "HP72", "size": "235/50R18", "price": 233640, "brand": "금호"}, {"pattern": "HP72", "size": "235/45R18", "price": 233200, "brand": "금호"}, {"pattern": "HP72", "size": "245/50R18", "price": 233200, "brand": "금호"}, {"pattern": "HP72", "size": "245/45R18", "price": 241120, "brand": "금호"}, {"pattern": "HP72", "size": "245/40R18", "price": 260150, "brand": "금호"}, {"pattern": "HP72", "size": "255/45R18", "price": 254100, "brand": "금호"}, {"pattern": "HP72", "size": "255/40R18", "price": 265100, "brand": "금호"}, {"pattern": "HP72", "size": "275/45R18", "price": 275000, "brand": "금호"}, {"pattern": "HP72", "size": "275/40R18", "price": 294800, "brand": "금호"}, {"pattern": "HP72", "size": "225/45R19", "price": 303930, "brand": "금호"}, {"pattern": "HP72", "size": "225/40R19", "price": 254100, "brand": "금호"}, {"pattern": "HP72", "size": "235/45R19", "price": 251240, "brand": "금호"}, {"pattern": "HP72", "size": "235/40R19", "price": 263780, "brand": "금호"}, {"pattern": "HP72", "size": "235/35R19", "price": 270710, "brand": "금호"}, {"pattern": "HP72", "size": "245/50R19", "price": 271700, "brand": "금호"}, {"pattern": "HP72", "size": "245/45R19", "price": 263010, "brand": "금호"}, {"pattern": "HP72", "size": "245/40R19", "price": 275660, "brand": "금호"}, {"pattern": "HP72", "size": "245/35R19", "price": 287870, "brand": "금호"}, {"pattern": "HP72", "size": "255/45R19", "price": 273350, "brand": "금호"}, {"pattern": "HP72", "size": "255/40R19", "price": 289960, "brand": "금호"}, {"pattern": "HP72", "size": "255/35R19", "price": 299970, "brand": "금호"}, {"pattern": "HP72", "size": "265/40R19", "price": 325600, "brand": "금호"}, {"pattern": "HP72", "size": "265/35R19", "price": 340120, "brand": "금호"}, {"pattern": "HP72", "size": "275/40R19", "price": 315040, "brand": "금호"}, {"pattern": "HP72", "size": "275/35R19", "price": 332200, "brand": "금호"}, {"pattern": "HP72", "size": "275/30R19", "price": 356950, "brand": "금호"}, {"pattern": "HP72", "size": "285/40R19", "price": 411400, "brand": "금호"}, {"pattern": "HP72", "size": "245/45R20", "price": 288860, "brand": "금호"}, {"pattern": "HP72", "size": "245/40R20", "price": 309320, "brand": "금호"}, {"pattern": "HP72", "size": "245/35R20", "price": 315810, "brand": "금호"}, {"pattern": "HP72", "size": "255/40R20", "price": 331540, "brand": "금호"}, {"pattern": "HP72", "size": "265/40R20", "price": 336050, "brand": "금호"}, {"pattern": "HP72", "size": "265/35R20", "price": 345070, "brand": "금호"}, {"pattern": "HP72", "size": "265/30R20", "price": 361900, "brand": "금호"}, {"pattern": "HP72", "size": "275/40R20", "price": 383900, "brand": "금호"}, {"pattern": "HP72", "size": "275/35R20", "price": 366630, "brand": "금호"}, {"pattern": "HP72", "size": "275/30R20", "price": 393580, "brand": "금호"}, {"pattern": "HP72", "size": "285/35R20", "price": 391270, "brand": "금호"}, {"pattern": "HP72", "size": "245/40R21", "price": 317900, "brand": "금호"}, {"pattern": "HP72", "size": "245/35R21", "price": 332200, "brand": "금호"}, {"pattern": "HP72", "size": "255/35R21", "price": 343200, "brand": "금호"}, {"pattern": "HP72", "size": "275/35R21", "price": 428230, "brand": "금호"}, {"pattern": "HP72", "size": "285/30R21", "price": 489500, "brand": "금호"}]
+[
+  {
+    "pattern": "ECSTA PS71",
+    "size": "215/45R17",
+    "price": 195580,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/50R17",
+    "price": 200750,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/45R17",
+    "price": 214610,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "235/45R17",
+    "price": 220330,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/45R17",
+    "price": 231330,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/40R17",
+    "price": 244200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/40R17",
+    "price": 255640,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/45R18",
+    "price": 241780,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/40R18",
+    "price": 242660,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "235/45R18",
+    "price": 243430,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "235/40R18",
+    "price": 253110,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/50R18",
+    "price": 254100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/45R18",
+    "price": 250910,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/40R18",
+    "price": 269390,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/35R18",
+    "price": 275000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/45R18",
+    "price": 262460,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/40R18",
+    "price": 278080,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/35R18",
+    "price": 288090,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "265/40R18",
+    "price": 285340,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "265/35R18",
+    "price": 305470,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/45R18",
+    "price": 288640,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "285/35R18",
+    "price": 317020,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/45R19",
+    "price": 265980,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "225/40R19",
+    "price": 269390,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "235/35R19",
+    "price": 298100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/45R19",
+    "price": 283580,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/40R19",
+    "price": 285450,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/35R19",
+    "price": 305800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/40R19",
+    "price": 302610,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/35R19",
+    "price": 321860,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "265/35R19",
+    "price": 337920,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "265/30R19",
+    "price": 337370,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/40R19",
+    "price": 340560,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/35R19",
+    "price": 353980,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/30R19",
+    "price": 354200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "295/30R19",
+    "price": 387860,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/40R20",
+    "price": 305690,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "245/35R20",
+    "price": 321200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "255/35R20",
+    "price": 337150,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/35R20",
+    "price": 369160,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71",
+    "size": "275/30R20",
+    "price": 387750,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "225/45R18",
+    "price": 258500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "235/60R18",
+    "price": 266200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "235/45R18",
+    "price": 264000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/50R18",
+    "price": 297000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/45R18",
+    "price": 298100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/40R18",
+    "price": 291500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/40R18",
+    "price": 319000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/45R18",
+    "price": 352000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/40R18",
+    "price": 341000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "225/40R19",
+    "price": 290400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "235/55R19",
+    "price": 261910,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "235/45R19",
+    "price": 325600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/50R19",
+    "price": 352000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/45R19",
+    "price": 330000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/40R19",
+    "price": 322300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/40R19",
+    "price": 352000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/35R19",
+    "price": 360800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "265/55R19",
+    "price": 278300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/40R19",
+    "price": 385000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/35R19",
+    "price": 414700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "285/30R19",
+    "price": 437800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/45R20",
+    "price": 393800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/40R20",
+    "price": 398200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "245/35R20",
+    "price": 401500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/50R20",
+    "price": 302500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/40R20",
+    "price": 408100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "265/50R20",
+    "price": 303600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "265/45R20",
+    "price": 348700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "265/40R20",
+    "price": 421300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/45R20",
+    "price": 334400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/40R20",
+    "price": 447700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/35R20",
+    "price": 462000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/30R20",
+    "price": 478500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "285/35R20",
+    "price": 477400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "295/35R20",
+    "price": 498300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "315/35R20",
+    "price": 361900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "255/40R21",
+    "price": 358600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "275/45R21",
+    "price": 376200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty X",
+    "size": "265/40R22",
+    "price": 387200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "205/55R17",
+    "price": 198000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "205/45R17",
+    "price": 205700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "215/55R17",
+    "price": 204600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "215/50R17",
+    "price": 193600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/55R17",
+    "price": 220000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/50R17",
+    "price": 213400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/45R17",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/45R17",
+    "price": 250800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/55R18",
+    "price": 237600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9 (흡음재)",
+    "size": "225/55R18",
+    "price": 259600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/50R18",
+    "price": 242000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/45R18",
+    "price": 236500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/40R18",
+    "price": 256300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "235/50R18",
+    "price": 245300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "235/45R18",
+    "price": 242000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "235/40R18",
+    "price": 253000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/50R18",
+    "price": 270600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/45R18",
+    "price": 265100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/40R18",
+    "price": 273900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "255/45R18",
+    "price": 281600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "255/40R18",
+    "price": 297000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/45R18",
+    "price": 319000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/40R18",
+    "price": 308000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "225/40R19",
+    "price": 269500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "235/45R19",
+    "price": 303600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9 (흡음재)",
+    "size": "235/45R19",
+    "price": 330000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/45R19",
+    "price": 295900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9 (흡음재)",
+    "size": "245/45R19",
+    "price": 323400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/40R19",
+    "price": 298100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9 (흡음재)",
+    "size": "245/40R19",
+    "price": 320100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "255/45R19",
+    "price": 334400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9 (흡음재)",
+    "size": "255/45R19",
+    "price": 352000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "255/40R19",
+    "price": 335500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "255/35R19",
+    "price": 343200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/40R19",
+    "price": 356400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/35R19",
+    "price": 379500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/45R20",
+    "price": 371800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "245/40R20",
+    "price": 375100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "265/40R20",
+    "price": 401500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/35R20",
+    "price": 418000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "Majesty 9",
+    "size": "275/40R20",
+    "price": 374000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "175/60R14",
+    "price": 119900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "195/45R16",
+    "price": 156200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "205/55R16",
+    "price": 149600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "205/60R16",
+    "price": 188100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "205/65R16",
+    "price": 182600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/45R16",
+    "price": 171600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/55R16",
+    "price": 159500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/60R16",
+    "price": 195800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/55R16",
+    "price": 168300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/60R16",
+    "price": 210100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/55R16",
+    "price": 183700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "205/50R17",
+    "price": 167200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "205/55R17",
+    "price": 163900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/45R17",
+    "price": 177100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/50R17",
+    "price": 171600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/55R17",
+    "price": 170500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/60R17",
+    "price": 198000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/45R17",
+    "price": 189200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/50R17",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/55R17",
+    "price": 188100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/55R17",
+    "price": 194700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/45R17",
+    "price": 202400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/40R18",
+    "price": 206800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "215/45R18",
+    "price": 190300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/40R18",
+    "price": 207900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "225/45R18",
+    "price": 217800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/40R18",
+    "price": 235400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/45R18",
+    "price": 229900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/50R18",
+    "price": 223300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/40R18",
+    "price": 229900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/45R18",
+    "price": 228800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/50R18",
+    "price": 244200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "235/35R19",
+    "price": 254100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/40R19",
+    "price": 264000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "245/45R19",
+    "price": 250800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "275/35R19",
+    "price": 325600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA51",
+    "size": "275/40R19",
+    "price": 310200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "155/65R13",
+    "price": 70400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "155/70R13",
+    "price": 71500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "155/80R13",
+    "price": 62700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "165/65R13",
+    "price": 68200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "175/60R13",
+    "price": 79200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "175/70R13",
+    "price": 70400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "155/70R14",
+    "price": 72600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "165/60R14",
+    "price": 92400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "165/65R14",
+    "price": 79200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "175/65R14",
+    "price": 92400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "185/60R14",
+    "price": 96800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "185/65R14",
+    "price": 92400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/60R14",
+    "price": 99000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/70R14",
+    "price": 78100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "165/60R15",
+    "price": 88000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "175/50R15",
+    "price": 103400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "185/60R15",
+    "price": 129800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "185/65R15",
+    "price": 127600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/55R15",
+    "price": 130900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/60R15",
+    "price": 123200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/65R15",
+    "price": 132000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/60R15",
+    "price": 128700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/65R15",
+    "price": 138600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "215/65R15",
+    "price": 134200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "195/45R16",
+    "price": 132000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/55R16",
+    "price": 124300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/60R16",
+    "price": 166100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/65R16",
+    "price": 155100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "215/60R16",
+    "price": 171600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/60R16",
+    "price": 187000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/45R17",
+    "price": 150700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "205/55R17",
+    "price": 155100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "215/45R17",
+    "price": 155100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "215/50R17",
+    "price": 151800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "215/55R17",
+    "price": 150700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/45R17",
+    "price": 169400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/50R17",
+    "price": 158400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/55R17",
+    "price": 167200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/40R18",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "225/45R18",
+    "price": 181500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "235/45R18",
+    "price": 184800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "235/50R18",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "245/45R18",
+    "price": 198000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21",
+    "size": "245/50R18",
+    "price": 204600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "185/55R15",
+    "price": 151800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "185/65R15",
+    "price": 146300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "195/50R16",
+    "price": 146300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "205/55R16",
+    "price": 147400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "205/60R16",
+    "price": 184800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "205/65R16",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "215/65R16",
+    "price": 182600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "215/50R17",
+    "price": 178200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "215/55R17",
+    "price": 167200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "225/55R17",
+    "price": 184800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "215/50R18",
+    "price": 214500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA31",
+    "size": "215/55R18",
+    "price": 184800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "205/55R16",
+    "price": 136400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "205/45R17",
+    "price": 151800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "215/45R17",
+    "price": 160600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "215/50R17",
+    "price": 156200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "215/55R17",
+    "price": 158400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "225/45R17",
+    "price": 170500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "225/50R17",
+    "price": 172700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "225/55R17",
+    "price": 173800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "225/45R18",
+    "price": 196900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "225/55R18",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "235/45R18",
+    "price": 204600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "245/45R18",
+    "price": 214500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "245/40R19",
+    "price": 246400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32",
+    "size": "245/45R19",
+    "price": 239800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "205/70R15",
+    "price": 96800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "205/60R16",
+    "price": 132000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "205/65R16",
+    "price": 115500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "215/60R16",
+    "price": 138600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "215/55R17",
+    "price": 127600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SuperMile TX31",
+    "size": "225/55R17",
+    "price": 137500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/65R17",
+    "price": 220000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "215/50R18",
+    "price": 243760,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/50R18",
+    "price": 235950,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/55R18",
+    "price": 221100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/60R18",
+    "price": 279180,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/55R18",
+    "price": 259600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/50R19",
+    "price": 276100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/55R19",
+    "price": 268400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "245/45R19",
+    "price": 283580,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/50R19",
+    "price": 286000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/55R19",
+    "price": 256300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/40R19",
+    "price": 340560,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "235/45R20",
+    "price": 351010,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "245/45R20",
+    "price": 353320,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/45R20",
+    "price": 294800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/50R20",
+    "price": 341000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/55R20",
+    "price": 339900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "265/45R20",
+    "price": 336600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/40R20",
+    "price": 353100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/45R20",
+    "price": 350900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/50R20",
+    "price": 349800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "285/40R20",
+    "price": 376200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "285/45R20",
+    "price": 395560,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "295/40R20",
+    "price": 374550,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "315/35R20",
+    "price": 384230,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "255/40R21",
+    "price": 372460,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "265/40R21",
+    "price": 437470,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/40R21",
+    "price": 440000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "285/40R21",
+    "price": 433620,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "285/45R21",
+    "price": 482900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "295/35R21",
+    "price": 363440,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "315/35R21",
+    "price": 487300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "265/35R22",
+    "price": 441100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/35R22",
+    "price": 489830,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "275/40R22",
+    "price": 445500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "285/35R22",
+    "price": 610390,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "315/30R22",
+    "price": 631180,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ECSTA PS71 SUV",
+    "size": "315/35R22",
+    "price": 620070,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/60R16",
+    "price": 222200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "225/60R17",
+    "price": 229900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "225/65R17",
+    "price": 211200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/55R17",
+    "price": 207900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/60R17",
+    "price": 239800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/65R17",
+    "price": 222200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/55R17",
+    "price": 220000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "215/55R18",
+    "price": 187000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "225/55R18",
+    "price": 198000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "225/60R18",
+    "price": 245300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/50R18",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/55R18",
+    "price": 209000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/60R18",
+    "price": 255200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/55R18",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/60R18",
+    "price": 270600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/55R18",
+    "price": 226600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/60R18",
+    "price": 282700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "265/60R18",
+    "price": 297000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/50R19",
+    "price": 245300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/55R19",
+    "price": 242000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/45R19",
+    "price": 247500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/50R19",
+    "price": 257400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/50R19",
+    "price": 251900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/60R19",
+    "price": 284900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "265/50R19",
+    "price": 253000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "265/55R19",
+    "price": 270600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "235/55R20",
+    "price": 267300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/45R20",
+    "price": 314600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "245/50R20",
+    "price": 290400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/45R20",
+    "price": 315700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/50R20",
+    "price": 277200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "255/55R20",
+    "price": 295900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "265/50R20",
+    "price": 284900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "275/40R20",
+    "price": 304700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "275/45R20",
+    "price": 320100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "275/50R20",
+    "price": 335500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "275/60R20",
+    "price": 348700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "295/40R21",
+    "price": 391600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "265/40R22",
+    "price": 370700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP71",
+    "size": "285/45R22",
+    "price": 379500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "215/65R16",
+    "price": 159500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/65R16",
+    "price": 169400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/70R16",
+    "price": 151800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/60R16",
+    "price": 210100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "245/70R16",
+    "price": 172700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/65R16",
+    "price": 211200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/60R17",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/55R17",
+    "price": 202400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/60R17",
+    "price": 226600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/65R17",
+    "price": 215600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "215/55R18",
+    "price": 178200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/55R18",
+    "price": 191400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/60R18",
+    "price": 232100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/55R18",
+    "price": 196900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/60R18",
+    "price": 234300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "245/60R18",
+    "price": 253000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/55R18",
+    "price": 215600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/60R18",
+    "price": 269500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "265/60R18",
+    "price": 280500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "225/55R19",
+    "price": 209000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/50R19",
+    "price": 232100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "235/55R19",
+    "price": 224400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "245/45R19",
+    "price": 233200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/50R19",
+    "price": 237600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/55R19",
+    "price": 225500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "255/50R20",
+    "price": 260700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN HP51",
+    "size": "265/50R20",
+    "price": 275000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/60R16",
+    "price": 206800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "215/60R17",
+    "price": 191400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "225/60R17",
+    "price": 209000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/60R17",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/65R17",
+    "price": 210100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/70R17",
+    "price": 195800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "225/55R18",
+    "price": 184800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "225/60R18",
+    "price": 227700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/55R18",
+    "price": 189200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/60R18",
+    "price": 226600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "255/55R18",
+    "price": 211200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "255/60R18",
+    "price": 260700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "265/60R18",
+    "price": 270600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "225/55R19",
+    "price": 207900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/50R19",
+    "price": 227700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "235/55R19",
+    "price": 216700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "245/45R19",
+    "price": 226600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "255/50R20",
+    "price": 255200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "CRUGEN Premium",
+    "size": "265/50R20",
+    "price": 271700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/55R18",
+    "price": 192500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/55R18",
+    "price": 200200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/60R18",
+    "price": 253000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "215/75R15",
+    "price": 159500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "245/75R16",
+    "price": 236500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "245/70R17",
+    "price": 259600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "235/65R17",
+    "price": 259600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "245/65R17",
+    "price": 267300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "265/70R17",
+    "price": 271700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "265/65R17",
+    "price": 305800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "255/60R18",
+    "price": 305800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "265/70R18",
+    "price": 297000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "265/65R18",
+    "price": 300300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "265/60R18",
+    "price": 322300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE AT52",
+    "size": "275/55R20",
+    "price": 303600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "28X8.50R15",
+    "price": 165000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "35X12.5R15",
+    "price": 341000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "255/75R17",
+    "price": 269500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "265/70R17",
+    "price": 288200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "285/70R17",
+    "price": 337590,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "315/70R17",
+    "price": 364760,
+    "brand": "금호"
+  },
+  {
+    "pattern": "ROAD VENTURE MT71",
+    "size": "35X12.5R17",
+    "price": 374000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "205/70R15",
+    "price": 115500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "215/70R15",
+    "price": 121000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "255/70R15",
+    "price": 157300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "215/65R16",
+    "price": 146300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "225/70R16",
+    "price": 137500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "235/60R16",
+    "price": 179300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "235/70R16",
+    "price": 150700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "245/70R16",
+    "price": 192500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "255/65R16",
+    "price": 190300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "225/60R17",
+    "price": 202400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "235/55R17",
+    "price": 182600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "235/60R17",
+    "price": 209000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS TA21 SUV",
+    "size": "235/65R17",
+    "price": 200200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32 SUV",
+    "size": "225/60R17",
+    "price": 196900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32 SUV",
+    "size": "235/55R18",
+    "price": 189200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32 SUV",
+    "size": "235/60R18",
+    "price": 229900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "SOLUS 4S HA32 SUV",
+    "size": "235/55R19",
+    "price": 215600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "225/55R18",
+    "price": 287100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "225/60R18",
+    "price": 272800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "235/45R18",
+    "price": 317900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "215/50R19",
+    "price": 257400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "235/40R19",
+    "price": 364100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "235/55R19",
+    "price": 271700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "245/45R19",
+    "price": 310200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/45R19",
+    "price": 356400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/50R19",
+    "price": 309100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/60R19",
+    "price": 314600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "275/40R19",
+    "price": 356400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "285/40R19",
+    "price": 391600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "235/35R20",
+    "price": 561000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "245/40R20",
+    "price": 418000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "245/45R20",
+    "price": 451000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/40R20",
+    "price": 438900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/45R20",
+    "price": 347600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/50R20",
+    "price": 438900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "265/45R20",
+    "price": 399300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "275/50R20",
+    "price": 451000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "285/40R20",
+    "price": 511500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "245/35R21",
+    "price": 547800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "265/35R21",
+    "price": 596200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/40R21",
+    "price": 360800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "255/35R21",
+    "price": 543400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "275/35R21",
+    "price": 566500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "285/45R21",
+    "price": 493900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "265/35R22",
+    "price": 554400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "EnnoV PREMIUM VA91",
+    "size": "285/35R22",
+    "price": 610500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "165/65R14",
+    "price": 97680,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "175/65R14",
+    "price": 100650,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "185/60R15",
+    "price": 152020,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "195/45R16",
+    "price": 163020,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/65R16",
+    "price": 177650,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/60R16",
+    "price": 185900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/55R16",
+    "price": 148500,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/60R16",
+    "price": 196570,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/60R16",
+    "price": 204820,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/55R17",
+    "price": 193380,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/50R17",
+    "price": 196900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "205/45R17",
+    "price": 196900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/55R17",
+    "price": 206800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/50R17",
+    "price": 202840,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/45R17",
+    "price": 204050,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/55R17",
+    "price": 213400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/50R17",
+    "price": 214610,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/45R17",
+    "price": 212300,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/55R17",
+    "price": 221100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/45R17",
+    "price": 231000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "215/45R18",
+    "price": 213730,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/45R18",
+    "price": 224400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/40R18",
+    "price": 227700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/50R18",
+    "price": 233640,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/45R18",
+    "price": 233200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/50R18",
+    "price": 233200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/45R18",
+    "price": 241120,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/40R18",
+    "price": 260150,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/45R18",
+    "price": 254100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/40R18",
+    "price": 265100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/45R18",
+    "price": 275000,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/40R18",
+    "price": 294800,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/45R19",
+    "price": 303930,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "225/40R19",
+    "price": 254100,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/45R19",
+    "price": 251240,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/40R19",
+    "price": 263780,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "235/35R19",
+    "price": 270710,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/50R19",
+    "price": 271700,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/45R19",
+    "price": 263010,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/40R19",
+    "price": 275660,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/35R19",
+    "price": 287870,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/45R19",
+    "price": 273350,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/40R19",
+    "price": 289960,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/35R19",
+    "price": 299970,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "265/40R19",
+    "price": 325600,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "265/35R19",
+    "price": 340120,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/40R19",
+    "price": 315040,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/35R19",
+    "price": 332200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/30R19",
+    "price": 356950,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "285/40R19",
+    "price": 411400,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/45R20",
+    "price": 288860,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/40R20",
+    "price": 309320,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/35R20",
+    "price": 315810,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/40R20",
+    "price": 331540,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "265/40R20",
+    "price": 336050,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "265/35R20",
+    "price": 345070,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "265/30R20",
+    "price": 361900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/40R20",
+    "price": 383900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/35R20",
+    "price": 366630,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/30R20",
+    "price": 393580,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "285/35R20",
+    "price": 391270,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/40R21",
+    "price": 317900,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "245/35R21",
+    "price": 332200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "255/35R21",
+    "price": 343200,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "275/35R21",
+    "price": 428230,
+    "brand": "금호"
+  },
+  {
+    "pattern": "HP72",
+    "size": "285/30R21",
+    "price": 489500,
+    "brand": "금호"
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/80R15",
+    "price": 133100
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/70R15",
+    "price": 134200
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/70R16",
+    "price": 136400
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/70R15",
+    "price": 126500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/65R17",
+    "price": 172700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/65R17",
+    "price": 169400
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/70R15",
+    "price": 134200
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/70R15",
+    "price": 126500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/80R15",
+    "price": 133100
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "145/80R13",
+    "price": 79200
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/70R16",
+    "price": 136400
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "205/70R15",
+    "price": 139700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "155/80R12",
+    "price": 68200
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/70R15",
+    "price": 148500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "235/55R18",
+    "price": 185900
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "145/80R13",
+    "price": 79200
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "205/70R15",
+    "price": 129800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "235/65R16",
+    "price": 231000
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "650/80R15",
+    "price": 140800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "245/45R20",
+    "price": 305800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "245/45R20",
+    "price": 305800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "205/70R15",
+    "price": 139700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "185/80R14",
+    "price": 118800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "225/65R16",
+    "price": 158400
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/70R15",
+    "price": 148500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "155/80R13",
+    "price": 72050
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/80R14",
+    "price": 115500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/80R14",
+    "price": 127600
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "185/80R14",
+    "price": 108900
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "225/75R16",
+    "price": 238700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "225/65R16",
+    "price": 158400
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "670/80R14",
+    "price": 113740
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "235/65R16",
+    "price": 231000
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "185/80R14",
+    "price": 118800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "650/80R15",
+    "price": 140800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "145/80R13",
+    "price": 67870
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "155/80R12",
+    "price": 67870
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "155/80R12",
+    "price": 62480
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "155/80R13",
+    "price": 66440
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/75R16",
+    "price": 128150
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "195/75R16",
+    "price": 141570
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "205/70R14",
+    "price": 98560
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "215/70R14",
+    "price": 103950
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "500/80R12",
+    "price": 67870
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "500/80R12",
+    "price": 62480
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "550/80R12",
+    "price": 75240
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "550/80R12",
+    "price": 68860
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC53",
+    "size": "670/80R14",
+    "price": 94050
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "145/80R13",
+    "price": 77000
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "145/80R13",
+    "price": 82500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "500/80R12",
+    "price": 78100
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "550/80R13",
+    "price": 93500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "500/80R12",
+    "price": 84700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "145/80R13",
+    "price": 96800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "155/80R12",
+    "price": 78100
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "155/80R13",
+    "price": 86900
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "550/80R13",
+    "price": 85800
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "155/80R13",
+    "price": 82500
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "155/80R12",
+    "price": 84700
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/70R15",
+    "price": 106370
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/70R15",
+    "price": 96690
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/75R16",
+    "price": 116710
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/75R16",
+    "price": 105710
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/80R15",
+    "price": 140580
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "195/80R15",
+    "price": 109890
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "205/70R15",
+    "price": 111320
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "205/70R15",
+    "price": 101090
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "215/70R15",
+    "price": 115610
+  },
+  {
+    "brand": "금호",
+    "pattern": "PorTran KC55",
+    "size": "650/80R15",
+    "price": 109450
+  }
+]
