@@ -2537,5 +2537,29 @@
     "pattern": "VanContact Ultra 6PR",
     "size": "215/70R16",
     "price": 229900
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "ContiProContact",
+    "size": "215/55R18",
+    "price": 291500
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "CrossContact LX Sport",
+    "size": "235/55R19",
+    "price": 313500
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "CrossContact RX",
+    "size": "225/45R18",
+    "price": 289300
+  },
+  {
+    "brand": "콘티넨탈",
+    "pattern": "CrossContact RX",
+    "size": "235/55R19",
+    "price": 313500
   }
 ]
