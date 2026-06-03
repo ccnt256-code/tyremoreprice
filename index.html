@@ -166,6 +166,7 @@
 </script>
 <style>
 * { margin:0; padding:0; box-sizing:border-box; }
+html { font-size:19px; }
 body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif; background:#f5f5f5; color:#333; }
 .header { background:#1a1a2e; color:#fff; padding:20px; text-align:center; position:sticky; top:0; z-index:100; }
 .header h1 { font-size:1.3rem; margin-bottom:4px; }
@@ -187,6 +188,8 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
 .shop-btn.naver-book { background:#1B6AE5; }
 .shop-btn.kakao { background:#FEE500; color:#3C1E1E !important; }
 .shop-btn.smartstore { background:#2DB400; }
+.shop-btn.wholesale-shop-btn { background:linear-gradient(135deg,#8B5CF6,#6D28D9); }
+.shop-btn.wholesale-shop-btn.active { background:linear-gradient(135deg,#6D28D9,#4C1D95); box-shadow:0 0 8px rgba(139,92,246,0.5); }
 @media(max-width:600px) {
   .shop-photo { height:170px; }
   .shop-btn { padding:10px 4px; font-size:0.75rem; gap:3px; }
@@ -339,6 +342,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
       <a class="shop-btn naver-book" href="https://m.place.naver.com/place/38598188/booking" target="_blank">📅 예약</a>
       <a class="shop-btn kakao" href="http://pf.kakao.com/_xbxdWnn/chat" target="_blank">💬 카톡상담</a>
       <a class="shop-btn smartstore" href="https://smartstore.naver.com/ulsanseller" target="_blank">🛒 스토어</a>
+      <a class="shop-btn wholesale-shop-btn" href="javascript:void(0)" onclick="openWholesale()" id="btnWholesaleTop">🏷️ 도매</a>
     </div>
   </div>
 </div>
@@ -352,9 +356,9 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
     <button class="btn-search" onclick="render()">🔍 검색</button>
   </div>
   <div class="brand-filters" id="brandFilters"></div>
-  <div class="wholesale-wrap" id="wholesaleWrap">
-    <button class="btn-wholesale" id="btnWholesale" onclick="openWholesale()">🏷️ 도매</button>
-    <span id="wholesaleInfo"></span>
+  <div class="wholesale-wrap" id="wholesaleWrap" style="display:none;">
+    <span class="wholesale-badge" id="wholesaleBadge"></span>
+    <button class="wholesale-exit" onclick="exitWholesale()">✕ 해제</button>
   </div>
   <div class="filter-row">
     <div class="sort-btns">
@@ -1248,8 +1252,8 @@ let isAdmin = false;
 let wholesaleMode = null; // null | 'A' | 'B'
 const WHOLESALE_PW = { '65': 'A', '16': 'B' };
 const WHOLESALE_DC = {
-  'A': { '미쉐린': 38, '콘티넨탈': 49, '제너럴': 49, '한국타이어': 40, '라우펜': 40 },
-  'B': { '미쉐린': 35, '콘티넨탈': 45, '제너럴': 45, '한국타이어': 37, '라우펜': 37 }
+  'A': { '미쉐린': 38, '콘티넨탈': 49, '제너럴': 45, '한국타이어': 40, '라우펜': 50 },
+  'B': { '미쉐린': 35, '콘티넨탈': 45, '제너럴': 40, '한국타이어': 37, '라우펜': 47 }
 };
 // 백원단위 반올림 (천원 단위)
 function roundPrice(p) { return Math.round(p / 1000) * 1000; }
@@ -1502,16 +1506,18 @@ function exitWholesale() {
   render();
 }
 function updateWholesaleUI() {
-  const btn = document.getElementById('btnWholesale');
-  const info = document.getElementById('wholesaleInfo');
+  const topBtn = document.getElementById('btnWholesaleTop');
+  const wrap = document.getElementById('wholesaleWrap');
+  const badge = document.getElementById('wholesaleBadge');
   if (wholesaleMode) {
-    btn.classList.add('active');
-    btn.textContent = '🏷️ 도매 ON';
-    info.innerHTML = '<button class="wholesale-exit" onclick="exitWholesale()">✕ 해제</button>';
+    topBtn.classList.add('active');
+    topBtn.textContent = '🏷️ 도매 ON';
+    wrap.style.display = 'flex';
+    badge.textContent = '🏷️ 도매 모드 활성';
   } else {
-    btn.classList.remove('active');
-    btn.textContent = '🏷️ 도매';
-    info.innerHTML = '';
+    topBtn.classList.remove('active');
+    topBtn.textContent = '🏷️ 도매';
+    wrap.style.display = 'none';
   }
 }
 
