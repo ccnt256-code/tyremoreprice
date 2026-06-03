@@ -220,6 +220,17 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
 .brand-btn[data-brand="제너럴"].active { background:#D4451A; color:#fff; }
 .brand-btn[data-brand="전체"] { color:#1a1a2e; border-color:#1a1a2e; }
 .brand-btn[data-brand="전체"].active { background:#1a1a2e; color:#fff; }
+/* Wholesale */
+.wholesale-wrap { display:flex; align-items:center; gap:8px; margin-bottom:12px; }
+.btn-wholesale { padding:8px 16px; border:2px solid #8B5CF6; border-radius:20px; background:#fff; cursor:pointer; font-size:0.85rem; font-weight:700; color:#8B5CF6; transition:all .2s; }
+.btn-wholesale:hover { transform:scale(1.05); }
+.btn-wholesale.active { background:linear-gradient(135deg,#8B5CF6,#6D28D9); color:#fff; border-color:transparent; }
+.wholesale-badge { display:inline-block; padding:4px 10px; border-radius:12px; font-size:0.75rem; font-weight:700; background:linear-gradient(135deg,#8B5CF6,#6D28D9); color:#fff; }
+.wholesale-exit { padding:4px 10px; border:1.5px solid #ccc; border-radius:12px; background:#fff; cursor:pointer; font-size:0.75rem; font-weight:600; color:#888; }
+.wholesale-exit:hover { background:#f5f5f5; }
+.tire-price-wholesale { font-size:1.15rem; font-weight:800; color:#6D28D9; white-space:nowrap; }
+.tire-price-original { font-size:0.7rem; color:#bbb; text-decoration:line-through; font-weight:400; }
+.no-dc-notice { font-size:0.75rem; color:#8B5CF6; padding:4px 0; }
 .stats { font-size:0.85rem; color:#888; margin-bottom:12px; display:flex; justify-content:space-between; align-items:center; }
 .filter-row { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:12px; }
 .pattern-select, .oem-select, .sort-select { padding:8px 12px; border:1px solid #ddd; border-radius:8px; font-size:0.85rem; background:#fff; outline:none; }
@@ -341,6 +352,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
     <button class="btn-search" onclick="render()">🔍 검색</button>
   </div>
   <div class="brand-filters" id="brandFilters"></div>
+  <div class="wholesale-wrap" id="wholesaleWrap">
+    <button class="btn-wholesale" id="btnWholesale" onclick="openWholesale()">🏷️ 도매</button>
+    <span id="wholesaleInfo"></span>
+  </div>
   <div class="filter-row">
     <div class="sort-btns">
       <button class="sort-btn active" data-sort="size" onclick="setSort('size')">사이즈순</button>
@@ -402,6 +417,19 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
     <div class="modal-btns">
       <button class="cancel" onclick="closePwModal()">취소</button>
       <button class="save" onclick="checkPw()">확인</button>
+    </div>
+  </div>
+</div>
+
+<!-- Wholesale Password Modal -->
+<div class="modal-overlay" id="wsPwModal">
+  <div class="modal">
+    <h3>🏷️ 도매 로그인</h3>
+    <label>비밀번호</label>
+    <input type="password" id="wsPwInput" placeholder="도매 비밀번호 입력" onkeydown="if(event.key==='Enter')checkWsPw()">
+    <div class="modal-btns">
+      <button class="cancel" onclick="closeWsPwModal()">취소</button>
+      <button class="save" onclick="checkWsPw()">확인</button>
     </div>
   </div>
 </div>
@@ -1216,6 +1244,23 @@ let activeSort = 'size';
 let editIdx = -1;
 let isAdmin = false;
 
+// ── Wholesale (도매) Config ──
+let wholesaleMode = null; // null | 'A' | 'B'
+const WHOLESALE_PW = { '65': 'A', '16': 'B' };
+const WHOLESALE_DC = {
+  'A': { '미쉐린': 38, '콘티넨탈': 49, '제너럴': 49, '한국타이어': 40, '라우펜': 40 },
+  'B': { '미쉐린': 35, '콘티넨탈': 45, '제너럴': 45, '한국타이어': 37, '라우펜': 37 }
+};
+// 백원단위 반올림 (천원 단위)
+function roundPrice(p) { return Math.round(p / 1000) * 1000; }
+function getWholesalePrice(item) {
+  if (!wholesaleMode) return null;
+  const dc = WHOLESALE_DC[wholesaleMode];
+  const rate = dc[item.brand];
+  if (rate == null) return null;
+  return roundPrice(item.price * (1 - rate / 100));
+}
+
 function loadData() {
   const savedVer = localStorage.getItem('tireDataVersion');
   if (savedVer !== DATA_VERSION) {
@@ -1300,6 +1345,20 @@ function render() {
     const color = BRAND_COLORS[item.brand] || '#333';
     const textColor = item.brand === '미쉐린' ? '#333' : '#fff';
     const cid = `c${realIdx}`;
+    const wsPrice = getWholesalePrice(item);
+    const priceHtml = wholesaleMode && wsPrice != null
+      ? `<div class="tire-price-wholesale">₩${wsPrice.toLocaleString()}<br><span class="tire-price-original">₩${item.price.toLocaleString()}</span></div>`
+      : `<div class="tire-price"><span style="font-size:0.7rem;color:#888;font-weight:400;">공장도가</span><br>₩${item.price.toLocaleString()}</div>`;
+    const calcHtml = wholesaleMode
+      ? ''
+      : `<div class="tire-calc">
+        <span>DC</span><input type="number" id="dc${cid}" value="0" min="0" max="100" oninput="inlineCalc(${item.price},'${cid}')"><span>%</span>
+        <button class="qty-btn" onclick="chgQty('${cid}',-1,${item.price})">−</button>
+        <input type="number" id="qty${cid}" value="1" min="1" max="99" oninput="inlineCalc(${item.price},'${cid}')">
+        <button class="qty-btn" onclick="chgQty('${cid}',1,${item.price})">+</button>
+        <span>개</span>
+        <div class="calc-result" id="res${cid}">₩${item.price.toLocaleString()}</div>
+      </div>`;
     return `<div class="tire-card">
       <div style="display:flex;align-items:center;gap:12px;">
         <div class="brand-tag" style="background:${color};color:${textColor}">${item.brand}</div>
@@ -1307,17 +1366,10 @@ function render() {
           <div class="tire-pattern">${item.pattern}</div>
           <div class="tire-size">${item.size}${item.oem ? " <span style=\"color:#999;font-size:0.75rem\">"+item.oem+"</span>" : ""}</div>
         </div>
-        <div class="tire-price"><span style="font-size:0.7rem;color:#888;font-weight:400;">공장도가</span><br>₩${item.price.toLocaleString()}</div>
+        ${priceHtml}
         ${isAdmin ? `<button class="edit-btn" onclick="showEditModal(${realIdx})">✏️</button>` : ''}
       </div>
-      <div class="tire-calc">
-        <span>DC</span><input type="number" id="dc${cid}" value="0" min="0" max="100" oninput="inlineCalc(${item.price},'${cid}')"><span>%</span>
-        <button class="qty-btn" onclick="chgQty('${cid}',-1,${item.price})">−</button>
-        <input type="number" id="qty${cid}" value="1" min="1" max="99" oninput="inlineCalc(${item.price},'${cid}')">
-        <button class="qty-btn" onclick="chgQty('${cid}',1,${item.price})">+</button>
-        <span>개</span>
-        <div class="calc-result" id="res${cid}">₩${item.price.toLocaleString()}</div>
-      </div>
+      ${calcHtml}
     </div>`;
   }).join('');
   document.getElementById('results').innerHTML = html || '<p style="text-align:center;color:#999;padding:40px;">검색 결과가 없습니다</p>';
@@ -1420,6 +1472,47 @@ function resetData() {
 function toggleFaq(btn) {
   const item = btn.parentElement;
   item.classList.toggle('open');
+}
+
+// ── Wholesale (도매) Functions ──
+function openWholesale() {
+  if (wholesaleMode) { exitWholesale(); return; }
+  document.getElementById('wsPwModal').classList.add('show');
+  document.getElementById('wsPwInput').value = '';
+  setTimeout(() => document.getElementById('wsPwInput').focus(), 200);
+}
+function closeWsPwModal() {
+  document.getElementById('wsPwModal').classList.remove('show');
+}
+function checkWsPw() {
+  const pw = document.getElementById('wsPwInput').value;
+  const tier = WHOLESALE_PW[pw];
+  if (tier) {
+    wholesaleMode = tier;
+    closeWsPwModal();
+    updateWholesaleUI();
+    render();
+  } else {
+    alert('비밀번호가 틀립니다');
+  }
+}
+function exitWholesale() {
+  wholesaleMode = null;
+  updateWholesaleUI();
+  render();
+}
+function updateWholesaleUI() {
+  const btn = document.getElementById('btnWholesale');
+  const info = document.getElementById('wholesaleInfo');
+  if (wholesaleMode) {
+    btn.classList.add('active');
+    btn.textContent = '🏷️ 도매 ON';
+    info.innerHTML = '<button class="wholesale-exit" onclick="exitWholesale()">✕ 해제</button>';
+  } else {
+    btn.classList.remove('active');
+    btn.textContent = '🏷️ 도매';
+    info.innerHTML = '';
+  }
 }
 
 window.onload = init;
