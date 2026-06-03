@@ -1258,8 +1258,8 @@ const WHOLESALE_DC = {
   'A': { '미쉐린': 38, '콘티넨탈': 49, '제너럴': 45, '한국타이어': 40, '라우펜': 50 },
   'B': { '미쉐린': 35, '콘티넨탈': 45, '제너럴': 40, '한국타이어': 37, '라우펜': 47 }
 };
-// 백원단위 반올림 (천원 단위)
-function roundPrice(p) { return Math.round(p / 1000) * 1000; }
+// 백원단위 올림
+function roundPrice(p) { return Math.ceil(p / 100) * 100; }
 function getWholesalePrice(item) {
   if (!wholesaleMode) return null;
   const dc = WHOLESALE_DC[wholesaleMode];
