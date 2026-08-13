@@ -174,6 +174,15 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
 .header { background:#1a1a2e; color:#fff; padding:20px; text-align:center; position:sticky; top:0; z-index:100; }
 .header h1 { font-size:1.3rem; margin-bottom:4px; }
 .header small { color:#aaa; font-size:0.8rem; }
+/* Changelog */
+.changelog-wrap { background:#1a1a2e; border-top:1px solid #2a2a4e; padding:0 16px 12px; }
+.changelog-toggle { background:none; border:none; color:#8888cc; font-size:0.72rem; cursor:pointer; padding:8px 0 4px; width:100%; text-align:center; }
+.changelog-toggle:hover { color:#aaa; }
+.changelog-list { display:none; max-height:200px; overflow-y:auto; }
+.changelog-list.open { display:block; }
+.changelog-item { display:flex; gap:8px; padding:4px 0; border-bottom:1px solid #2a2a4e; font-size:0.7rem; }
+.changelog-date { color:#FFD700; white-space:nowrap; min-width:80px; }
+.changelog-text { color:#ccc; }
 /* Shop Banner */
 .shop-banner { background:#1a1a2e; text-align:center; overflow:hidden; }
 .shop-photo-wrap { position:relative; width:100%; }
@@ -352,6 +361,10 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
 <div class="header">
   <h1>🔧 타이어 공장도가격 검색</h1>
   <small>타이어모어 울산학산점</small>
+</div>
+<div class="changelog-wrap">
+  <button class="changelog-toggle" id="changelogToggle" onclick="toggleChangelog()">📋 업데이트 내역 ▼</button>
+  <div class="changelog-list" id="changelogList"></div>
 </div>
 <div class="search-area">
   <div class="search-bar">
@@ -1238,6 +1251,7 @@ body { font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif
 </noscript>
 
 <script src="data.js"></script>
+<script src="changelog.js"></script>
 <script>
 const BRAND_COLORS = {
   '미쉐린':'#FFD700','콘티넨탈':'#F27B20','피렐리':'#CC0000',
@@ -1524,7 +1538,31 @@ function updateWholesaleUI() {
   }
 }
 
-window.onload = init;
+// Changelog
+function renderChangelog() {
+  const list = document.getElementById('changelogList');
+  if (!list || typeof changeLog === 'undefined') return;
+  list.innerHTML = changeLog.map(c =>
+    `<div class="changelog-item"><span class="changelog-date">${c.date}</span><span class="changelog-text">${c.text}</span></div>`
+  ).join('');
+  // 토글 버튼에 최신 날짜 표시
+  const btn = document.getElementById('changelogToggle');
+  if (btn && changeLog.length > 0) {
+    btn.textContent = `📋 최근 업데이트: ${changeLog[0].date} ▼`;
+  }
+}
+function toggleChangelog() {
+  const list = document.getElementById('changelogList');
+  const btn = document.getElementById('changelogToggle');
+  list.classList.toggle('open');
+  if (list.classList.contains('open')) {
+    btn.textContent = btn.textContent.replace('▼', '▲');
+  } else {
+    btn.textContent = btn.textContent.replace('▲', '▼');
+  }
+}
+
+window.onload = function() { init(); renderChangelog(); };
 
 </script>
 </body>
