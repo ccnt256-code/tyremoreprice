@@ -1386,7 +1386,7 @@ function render() {
         <div class="brand-tag" style="background:${color};color:${textColor}">${item.brand}</div>
         <div class="tire-info">
           <div class="tire-pattern">${item.pattern}</div>
-          <div class="tire-size">${item.size}${item.oem ? " <span style=\"color:#999;font-size:0.75rem\">"+item.oem+"</span>" : ""}</div>
+          <div class="tire-size">${item.size}${item.ply && item.ply !== 4 ? " <span style=\"color:#e67e22;font-size:0.75rem;font-weight:600\">"+item.ply+"PR</span>" : ""}${item.oem ? " <span style=\"color:#999;font-size:0.75rem\">"+item.oem+"</span>" : ""}</div>
         </div>
         ${priceHtml}
         ${isAdmin ? `<button class="edit-btn" onclick="showEditModal(${realIdx})">✏️</button>` : ''}
