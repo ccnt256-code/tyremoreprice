@@ -1563,8 +1563,46 @@ function toggleChangelog() {
   }
 }
 
-window.onload = function() { init(); renderChangelog(); };
+// Visitor Counter (localStorage + GoatCounter)
+function initVisitorCounter() {
+  const today = new Date().toISOString().slice(0, 10);
+  const stored = JSON.parse(localStorage.getItem('visitorStats') || '{}');
+  
+  // 전체 방문 수
+  if (!stored.total) stored.total = 0;
+  
+  // 오늘 방문 여부 체크
+  if (stored.lastVisit !== today) {
+    stored.total += 1;
+    stored.lastVisit = today;
+    stored.todayCount = 1;
+    stored.todayDate = today;
+  } else {
+    // 같은 날 재방문 — 페이지뷰만 증가
+    stored.todayCount = (stored.todayCount || 0) + 1;
+  }
+  
+  localStorage.setItem('visitorStats', JSON.stringify(stored));
+  
+  // 표시
+  const el = document.getElementById('visitorCounter');
+  if (el) {
+    el.innerHTML = `👥 오늘 <strong>${stored.todayCount}</strong>회 · 누적 <strong>${stored.total}</strong>일 방문`;
+  }
+}
+
+window.onload = function() { init(); renderChangelog(); initVisitorCounter(); };
 
 </script>
+
+<!-- 방문자 카운터 푸터 -->
+<div style="text-align:center; padding:20px 16px 30px; color:#888; font-size:0.75rem; border-top:1px solid #eee; margin-top:20px;">
+  <div id="visitorCounter" style="margin-bottom:6px;">👥 방문자 집계 중...</div>
+  <div>📊 상세 통계는 <a href="https://analytics.google.com" target="_blank" style="color:#6c7ae0;">Google Analytics</a>에서 확인</div>
+  <div style="margin-top:8px;">
+    <img src="https://api.visitorbadge.io/api/visitors?path=ccnt256-tyremoreprice&label=%EB%B0%A9%EB%AC%B8%EC%9E%90&countColor=%23263759&style=flat-square&labelStyle=upper" alt="visitor counter" style="height:22px;">
+  </div>
+</div>
+
 </body>
 </html>
