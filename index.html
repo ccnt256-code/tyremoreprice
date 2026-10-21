@@ -1224,12 +1224,17 @@ const WHOLESALE_DC = {
   'A': { '미쉐린': 38, '콘티넨탈': 49, '제너럴': 45, '한국타이어': 40, '라우펜': 50 },
   'B': { '미쉐린': 35, '콘티넨탈': 45, '제너럴': 40, '한국타이어': 37, '라우펜': 47 }
 };
+const WHOLESALE_DC_CONTI_HKMC_OE = { 'A': 45, 'B': 40 };
 // 천원단위 올림
 function roundPrice(p) { return Math.ceil(p / 1000) * 1000; }
 function getWholesalePrice(item) {
   if (!wholesaleMode) return null;
   const dc = WHOLESALE_DC[wholesaleMode];
-  const rate = dc[item.brand];
+  let rate = dc[item.brand];
+  // 콘티넨탈 현대·기아·제네시스 OE 품목 별도 할인율 (2026-10-21 휘섭님)
+  if (item.brand === '콘티넨탈' && /KIA|HYUNDAI|Genesis/i.test(item.oem || '')) {
+    rate = WHOLESALE_DC_CONTI_HKMC_OE[wholesaleMode];
+  }
   if (rate == null) return null;
   return roundPrice(item.price * (1 - rate / 100));
 }
